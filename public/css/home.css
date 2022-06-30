@@ -1,0 +1,32 @@
+.index {
+    background-image: url('/img/emilia-home_720.jpg');
+    background-size: 75%;
+    background-repeat: no-repeat;
+    background-position: right -100px;
+}
+
+.home_menu {
+    padding-left: 15px;
+}
+
+.home_menu--vertical li{
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+
+.home_main h2 {
+    font-family: var(--tipografiaTitulos);
+    text-transform: uppercase;
+    font-size: 65px;
+    margin-top: 150px;
+    background-color: rgba(999, 999, 999, 0.4);
+}
+
+.home_main h1{
+    font-family: var(--tipografiaEmiliaCole);
+    font-weight: 400;
+    font-size: 30px;
+    margin-left: 15px;
+    margin-top: 60px;
+}
+
