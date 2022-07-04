@@ -1,0 +1,50 @@
+.music {
+    margin: 0;
+}
+.music__main{
+    margin-left: 10px;
+}
+.music h1{
+    margin-bottom: 0;
+}
+.music h2{
+    font-family: var(--tipografiaTitulos);
+    text-transform: uppercase;
+    font-size: 20px;
+}
+.music h3{
+    margin-bottom: 0;
+}
+
+.music__menu-interno ul {
+    padding-left: 50px;
+    margin-top: 0;
+    line-height: 20px;
+}
+#album img {
+    width: 50%;
+}
+#album ol, ul  {
+    padding-left: 35px;
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 30px;
+}
+#album li{
+    list-style-type: decimal-leading-zero;
+}
+.music__main a{
+    color: rgba(0, 0, 0, 0.5);
+}
+.music__main video{
+    width: 50%;
+    height: 294px;
+}
+.music__main p{
+    font-size: 12px;
+    line-height: 17px;
+}
+
+.music__main section{
+    margin-top: 45px;
+}
