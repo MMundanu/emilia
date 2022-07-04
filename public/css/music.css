@@ -36,10 +36,7 @@
 .music__main a{
     color: rgba(0, 0, 0, 0.5);
 }
-.music__main video{
-    width: 50%;
-    height: 294px;
-}
+
 .music__main p{
     font-size: 12px;
     line-height: 17px;
@@ -48,3 +45,4 @@
 .music__main section{
     margin-top: 45px;
 }
+
